@@ -40,3 +40,7 @@ chmod +x program.sh
 ./program.sh
 
 When the image of classified ROIs apears, press the 0 key to close. Then the user will be prompted with a message asking if they would like to save the ROIs. If the user chooses to save the ROIs they will be prompted to name a new directory and the ROIs will be saved there. The folder created contains the text file of the ROI coordinates and a folder of the images inside each bounding box. The program automatically saves the classified and unclassified images with bounding boxes.
+
+![138995465-e518c9c9-40ce-487a-8d7f-d141aa23ab94](https://user-images.githubusercontent.com/83939698/145171829-45bfb878-efff-4a4c-955f-9ea1a0ba92f8.jpg)
+
+
