@@ -43,4 +43,13 @@ When the image of classified ROIs apears, press the 0 key to close. Then the use
 
 ![138995465-e518c9c9-40ce-487a-8d7f-d141aa23ab94](https://user-images.githubusercontent.com/83939698/145171829-45bfb878-efff-4a4c-955f-9ea1a0ba92f8.jpg)
 
+Extracted ROIs (pre-classification)
+
+![138995540-dad0b001-69eb-4430-a667-97e07a1f18c1](https://user-images.githubusercontent.com/83939698/145172000-300e571a-529e-402b-a02f-0b7fd86b6f98.jpg)
+Classified ROIs. Blue is inorganic and red is organic.
+
+Ideally the ROIs correctly determined to be false positives would be removed, although at this point that would most likely hinder the waste detection so they are left in.
+
+The majority of images used were supplied by Goterra or taken from their website and we cannot thank them enough for their support and enthusiasm in developing this software.
+
 
